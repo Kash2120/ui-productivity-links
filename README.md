@@ -39,3 +39,8 @@ JSON Formatter -https://chrome.google.com/webstore/detail/json-formatter/bcjindc
 
 Cool Clock
 https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce?hl=en
+
+### Angular
+
+Sharing Data Between Angular Components - Four Methods
+https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/ 
