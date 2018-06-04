@@ -42,5 +42,11 @@ https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaai
 
 ### Angular
 
-Sharing Data Between Angular Components - Four Methods
+Sharing Data Between Angular Components - Four Methods-
 https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/ 
+
+Model Driven Validation-
+https://codecraft.tv/courses/angular/forms/model-driven-validation/
+
+String Interpolation-
+https://codecraft.tv/courses/angular/quickstart/string-interpolation/
